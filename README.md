@@ -108,6 +108,8 @@
         - [NeurIPS](https://nips.cc/)
         - [ICML](https://icml.cc/)
         - [ICLR](https://iclr.cc/)
+        - [AISTATS](https://www.aistats.org/)
+
     - CV
         - [CVPR](http://cvpr2019.thecvf.com/)
         - [ICCV](http://iccv2019.thecvf.com/)
@@ -129,7 +131,6 @@
         - [WSDM](https://www.wsdm-conference.org/)
     - AI
         - [AAAI](https://www.aaai.org/)
-        - [AISTATS](https://www.aistats.org/)
         - [ICANN](https://e-nns.org/icann2019/)
         - [IJCAI](https://www.ijcai.org/)
         - [UAI](http://www.auai.org/)
