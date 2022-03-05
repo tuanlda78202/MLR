@@ -14,151 +14,110 @@
 # 1. Project Topic
 
 ## 1.1. Existing research
+- [Google Scholar](http://scholar.google.com)
+    
+- [Arxiv](http://arxiv.org/)
 
-- Benmark:
-    
-    [https://paperswithcode.com/sota](https://paperswithcode.com/sota)
-    
-- ACL anthology for NLP papers:
-    
-    [http://www.aclweb.org/anthology/](http://www.aclweb.org/anthology/)
-    
-- Online proceedings of major ML conferences:
-    - [NeurIPS](https://papers.nips.cc/)
-    - ICML, ICLR, CVPR, EMNLP, NAACL
-- Online preprint servers:
+- [Sci-Hub](https://sci-hub.se)
 
-   [http://arxiv.org/](http://arxiv.org/)
-- Top paper menioned on Twitter:
+- [Papers with Code](https://paperswithcode.com/sota)
+
+- [Connected Papers](https://www.connectedpapers.com)
+
+- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+
+- [ACL NLP](http://www.aclweb.org/anthology/)
+ 
+- [ACM](http://dl.acm.org/)
     
-    [http://www.arxiv-sanity.com/](http://www.arxiv-sanity.com/)
-    
-- Others:
-    - [http://scholar.google.com](http://scholar.google.com/)
-    - [http://dl.acm.org/](http://dl.acm.org/)
-    - [http://aclasb.dfki.de](http://aclasb.dfki.de/)
 
 ## 1.2. Datasets and Tasks
 
-- Huggingface Datasets:
+- [Huggingface Datasets](https://huggingface.co/datasets)
     
-    [https://huggingface.co/datasets](https://huggingface.co/datasets)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
     
-- Kaggle has many datasets, though some of them are too small for Deep Learning:
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research#Text_data) has a list of machine learning text datasets, tabulated with useful information such as dataset size
     
-    [https://www.kaggle.com/datasets](https://www.kaggle.com/datasets)
-    
+- [Datahub](https://datahub.io/collections) has lots of datasets, though not all of it is Machine Learning focused
+        
+- [Microsoft Research](https://www.microsoft.com/en-us/research/academic-program/data-science-microsoft-research) has a collection of datasets (look under the ‘Dataset directory’ tab)
+
 - SOTA NLP:
+        
+    * [nlpprogress](https://nlpprogress.com/)
     
-    [https://paperswithcode.com/sota](https://paperswithcode.com/sota)
+    * [gluebenchmark](https://gluebenchmark.com/leaderboard)
     
-    [https://nlpprogress.com/](https://nlpprogress.com/)
+    * [conll](https://www.conll.org/previous-tasks)
     
-    [https://gluebenchmark.com/leaderboard](https://gluebenchmark.com/leaderboard)
+- A small list of well-known standard datasets for common NLP tasks: 
     
-    [https://www.conll.org/previous-tasks](https://www.conll.org/previous-tasks)
-    
-- A small list of well-known standard datasets for common NLP tasks: [https://machinelearningmastery.com/datasets-natural-language-processing/](https://machinelearningmastery.com/datasets-natural-language-processing/)
+    * [machinelearningmastery](https://machinelearningmastery.com/datasets-natural-language-processing)
 - An alphabetical list of free or public domain text datasets:
     
-    [https://github.com/niderhoff/nlp-datasets](https://github.com/niderhoff/nlp-datasets)
-    
-- Wikipedia has a list of machine learning text datasets, tabulated with useful information such as dataset size:
-[https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research#Text_data](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research#Text_data)
-- Datahub has lots of datasets, though not all of it is Machine Learning focused:
-    
-    [https://datahub.io/collections](https://datahub.io/collections)
-    
-- Microsoft Research has a collection of datasets (look under the ‘Dataset directory’ tab):
-[https://www.microsoft.com/en-us/research/academic-program/data-science-microsoft-research/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fdata-science-initiative%2F%20datasets.aspx#!dataset-directory](https://www.microsoft.com/en-us/research/academic-program/data-science-microsoft-research/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fdata-science-initiative%2F%2520datasets.aspx#!dataset-directory)
-- A script to search arXiv papers for a keyword, and extract important information such as performance metrics on a task:
-    
-    [https://huyenchip.com/2018/10/04/sotawhat.html](https://huyenchip.com/2018/10/04/sotawhat.html)
+    * [nlpdatasets](https://github.com/niderhoff/nlp-datasets)
     
 - Datasets for machine translation:
     
-    [http://statmt.org](http://statmt.org/)
+    * [statmt](http://statmt.org/)
     
 - Syntactic corpora for many languages:
     
-    [https://universaldependencies.org](https://universaldependencies.org/)
+    * [universaldependencies](https://universaldependencies.org/)
+    
+- A script to search arXiv papers for a keyword, and extract important information such as performance metrics on a task:
+    
+    * [huyenchip](https://huyenchip.com/2018/10/04/sotawhat.html)
     
 
 # 2. Project Advice
 
 ## Processing Data
 
-- StanfordNLP: a Python library providing tokenization, tagging, parsing, and other capabilities:
+- [StanfordNLP](https://stanfordnlp.github.io/stanfordnlp/), a Python library providing tokenization, tagging, parsing, and other capabilities.
+        
+- Software from the [Stanford NLP Group](http://nlp.stanford.edu/software/index.shtml)
     
-    [https://stanfordnlp.github.io/stanfordnlp/](https://stanfordnlp.github.io/stanfordnlp/)
+- [NLTK](http://nltk.org/), a lightweight Natural Language Toolkit package in Python.
     
-- Other software from the Stanford NLP group:
-[http://nlp.stanford.edu/software/index.shtml](http://nlp.stanford.edu/software/index.shtml)
-- NLTK, a lightweight Natural Language Toolkit package in Python:
-[http://nltk.org/](http://nltk.org/)
-- spaCy, another Python package that can do preprocessing, but also includes neural models (e.g. Language Models):
-    
-    [https://spacy.io/](https://spacy.io/)
-    
+- [spaCy](https://spacy.io/), another Python package that can do preprocessing, but also includes neural models (e.g. Language Models)    
 
 # 3. Top Tiers ML&AI Conferences
 
-- Site
-    - ML
-        - [NeurIPS](https://nips.cc/)
-        - [ICML](https://icml.cc/)
-        - [ICLR](https://iclr.cc/)
-        - [AISTATS](https://www.aistats.org/)
+- **Machine Learning**
+    - [NeurIPS](https://nips.cc/)
+      - Neural Information Processing Systems (formerly abbreviated NIPS). NeurIPS has gotten huge over the past few years as AI has become so important. Has a       focus on neural networks, but not exclusively.
+    - [ICML](https://icml.cc/)
+      - International Conference on Machine Learning. Has a general machine learning focus.
+    - [ICLR](https://iclr.cc/)
+      - International Conference on Learning Representations. ICLR was really the first conference focused on deep learning. It’s called “learning representations” because the motivation behind deep learning is to automatically learn higher-level features, or representations, that summarize data in useful ways. Deep Learning describes the structure of our current best solution to the problem of learning these representations.
+    - [AISTATS](https://www.aistats.org/)
 
-    - CV
-        - [CVPR](http://cvpr2019.thecvf.com/)
-        - [ICCV](http://iccv2019.thecvf.com/)
-        - [ECCV](https://eccv2020.eu/)
-    - NLP
-        - [ACL](http://www.acl2019.org/EN/index.xhtml)
-        - [NAACL](https://naacl2019.org/)
-        - [EMNLP](https://www.emnlp-ijcnlp2019.org/)
-    - Data
-        - [KDD](https://www.kdd.org/)
-        - [CIKM](http://www.cikmconference.org/)
-        - [ICDM](http://icdm2019.bigke.org/)
-        - [SDM](https://www.siam.org/Conferences/CM/Conference/sdm19)
-        - [PAKDD](http://pakdd2019.medmeeting.org/)
-        - [PKDD/ECML](http://ecmlpkdd2019.org/)
-        - [RECSYS](https://recsys.acm.org/)
-        - [SIGIR](https://sigir.org/)
-        - [WWW](https://www2019.thewebconf.org/)
-        - [WSDM](https://www.wsdm-conference.org/)
-    - AI
-        - [AAAI](https://www.aaai.org/)
-        - [ICANN](https://e-nns.org/icann2019/)
-        - [IJCAI](https://www.ijcai.org/)
-        - [UAI](http://www.auai.org/)
-- **NeurIPS**: *Neural Information Processing Systems (formerly abbreviated NIPS). NeurIPS has gotten huge over the past few years as AI has become so important. Has a focus on neural networks, but not exclusively.*
-    
-     [https://nips.cc](https://nips.cc/)
-    
-- **ICML**: *International Conference on Machine Learning. Has a general machine learning focus.*
-    
-    [https://icml.cc](https://icml.cc/)
-    
-- **ICLR**: *International Conference on Learning Representations. ICLR was really the first conference focused on deep learning. It’s called “learning representations” because the motivation behind deep learning is to automatically learn higher-level features, or representations, that summarize data in useful ways. Deep Learning describes the structure of our current best solution to the problem of learning these representations.*
-    
-     [https://iclr.cc](https://iclr.cc/)
-    
-- **AAAI**: *Association for the Advancement of Artificial Intelligence. AAAI is a little more applications focused, and a little less theoretical than some of the other AI conferences.*
-    
-    [http://www.aaai.org](http://www.aaai.org/)
-    
-- **CVPR**: *Computer Vision and Pattern Recognition.*
-    
-    [https://www.thecvf.com](https://www.thecvf.com/)
-    
-- **ICCV**: *International Conference on Computer Vision.*
-    
-    [https://www.thecvf.com](https://www.thecvf.com/)
-
-# 4. Reference 
-[Practical Tips for Final Projects Notes](https://web.stanford.edu/class/cs224n/readings/final-project-practical-tips.pdf)
-
-[List of great ML/AI conferences](https://www.kaggle.com/getting-started/115799)
+- **Computer Vision**
+    - [CVPR](http://cvpr2019.thecvf.com/)
+      - Computer Vision and Pattern Recognition.
+    - [ICCV](http://iccv2019.thecvf.com/)
+      - International Conference on Computer Vision.
+    - [ECCV](https://eccv2020.eu/)
+- **Natural Language Processing**
+    - [ACL](http://www.acl2019.org/EN/index.xhtml)
+    - [NAACL](https://naacl2019.org/)
+    - [EMNLP](https://www.emnlp-ijcnlp2019.org/)
+- **Data**
+    - [KDD](https://www.kdd.org/)
+    - [CIKM](http://www.cikmconference.org/)
+    - [ICDM](http://icdm2019.bigke.org/)
+    - [SDM](https://www.siam.org/Conferences/CM/Conference/sdm19)
+    - [PAKDD](http://pakdd2019.medmeeting.org/)
+    - [PKDD/ECML](http://ecmlpkdd2019.org/)
+    - [RECSYS](https://recsys.acm.org/)
+    - [SIGIR](https://sigir.org/)
+    - [WWW](https://www2019.thewebconf.org/)
+    - [WSDM](https://www.wsdm-conference.org/)
+- **Artificial Intelligence**
+    - [AAAI](https://www.aaai.org/)
+      - Association for the Advancement of Artificial Intelligence. AAAI is a little more applications focused, and a little less theoretical than some of the other AI conferences.
+    - [ICANN](https://e-nns.org/icann2019/)
+    - [IJCAI](https://www.ijcai.org/)
+     - [UAI](http://www.auai.org/)
