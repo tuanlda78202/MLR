@@ -25,11 +25,16 @@
 - [Connected Papers](https://www.connectedpapers.com)
 
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+    
+- [Towards Data Science](https://towardsdatascience.com)
 
 - [ACL NLP](http://www.aclweb.org/anthology/)
+    
+- [CVF](https://openaccess.thecvf.com/menu)
  
 - [ACM](http://dl.acm.org/)
-    
+
+- [SOTA Report 2021](https://www.stateof.ai)
 
 ## 1.2. Datasets and Tasks
 
@@ -121,3 +126,10 @@
     - [ICANN](https://e-nns.org/icann2019/)
     - [IJCAI](https://www.ijcai.org/)
      - [UAI](http://www.auai.org/)
+# 4. Courses
+* [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+* [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+* [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
+* [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/?fbclid=IwAR15ClfPoL7mfylj6knvko-A_0uE06eFCZB4ZBOBFqwjwWjqYTafNkA-a1k)
+* [CS230: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?)
+* [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
