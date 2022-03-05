@@ -13,7 +13,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/tuanlda78202/MLR?color=%23F7CAC9&label=Commit&logo=Battle.net&logoColor=%23DFCFBE&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/tuanlda78202/MLR?color=%23F7CAC9&label=Last%20Commit&logo=Google%20Photos&logoColor=%23DFCFBE&style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/tuanlda78202/MLR?color=%23F7CAC9&label=Repo%20Size&logo=Databricks&logoColor=%23DFCFBE&style=flat-square)
 # 1. Project Topic
 
-## 1.1. Exsiting research
+## 1.1. Existing research
 
 - Benmark:
     
