@@ -76,7 +76,11 @@
 - A script to search arXiv papers for a keyword, and extract important information such as performance metrics on a task:
     
     * [huyenchip](https://huyenchip.com/2018/10/04/sotawhat.html)
-    
+
+## 1.13. Tools 
+- [Overleaf](https://www.overleaf.com/project)
+- [Mendeley](https://www.mendeley.com/search/)
+
 
 # 2. Project Advice
 
@@ -129,6 +133,7 @@
     - [IJCAI](https://www.ijcai.org/)
      - [UAI](http://www.auai.org/)
 # 4. Courses
+* [Maths for Machine Learning](https://app.learney.me/maps/original_map#)
 * [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 * [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 * [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
