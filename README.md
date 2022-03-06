@@ -18,7 +18,7 @@
 
 - [Science Direct](https://www.sciencedirect.com)
     
-- [Arxiv](http://arxiv.org/)
+- [arXiv](http://arxiv.org/)
 
 - [Sci-Hub](https://sci-hub.hkvisa.net)
 
