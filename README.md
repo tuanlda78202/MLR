@@ -15,10 +15,12 @@
 
 ## 1.1. Existing research
 - [Google Scholar](http://scholar.google.com)
+
+- [Science Direct](https://www.sciencedirect.com)
     
 - [Arxiv](http://arxiv.org/)
 
-- [Sci-Hub](https://sci-hub.se)
+- [Sci-Hub](https://sci-hub.hkvisa.net)
 
 - [Papers with Code](https://paperswithcode.com/sota)
 
