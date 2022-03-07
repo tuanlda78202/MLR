@@ -27,7 +27,7 @@
 
 - [Sci-Hub](https://sci-hub.hkvisa.net)
    
-
+- [LibGen](https://libgen.is)
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
     
 - [Towards Data Science](https://towardsdatascience.com)
