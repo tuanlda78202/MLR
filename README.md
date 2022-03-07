@@ -19,17 +19,18 @@
 - [**Papers with Code**](https://paperswithcode.com/sota)
     
 - [**Comprehensive Study**](https://www.google.com/search?q=comprehensive+study+%2B+%5Bdomain_research%5D&rlz=1C5CHFA_enVN982VN982&sxsrf=APq-WBu67O6q5l2uy1gLqFcfhd9SkCStaA%3A1646543668545&ei=NEMkYtHPIMHLmAX4hKWoCA&ved=0ahUKEwjRueGT3bD2AhXBJaYKHXhCCYUQ4dUDCA4&uact=5&oq=comprehensive+study+%2B+%5Bdomain_research%5D&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BggAEAgQHjoICAAQCBAHEB5KBAhBGABKBAhGGABQ5w1Y-Rlg9htoAXABeACAAZUCiAGgCpIBBTAuOC4xmAEAoAEByAEIwAEB&sclient=gws-wiz)
-- [Google Scholar](http://scholar.google.com)
+- [**Google Scholar**](http://scholar.google.com)
+    
+- [**arXiv**](http://arxiv.org/)
+
+- [**Sci-Hub**](https://sci-hub.hkvisa.net)
+   
+- [**LibGen**](https://libgen.is)
+- [**Two Minute Papers**](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+- [**SOTA Report 2021**](https://www.stateof.ai)
 
 - [Science Direct](https://www.sciencedirect.com)
-    
-- [arXiv](http://arxiv.org/)
-
-- [Sci-Hub](https://sci-hub.hkvisa.net)
    
-- [LibGen](https://libgen.is)
-- [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-    
 - [Towards Data Science](https://towardsdatascience.com)
 
 - [ACL NLP](http://www.aclweb.org/anthology/)
@@ -37,8 +38,6 @@
 - [CVF](https://openaccess.thecvf.com/menu)
  
 - [ACM](http://dl.acm.org/)
-
-- [SOTA Report 2021](https://www.stateof.ai)
 
 ## 1.2. Datasets and Tasks
 
