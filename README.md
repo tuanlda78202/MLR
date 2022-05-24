@@ -79,8 +79,8 @@
     * [huyenchip](https://huyenchip.com/2018/10/04/sotawhat.html)
 
 ## 1.13. Tools 
-- [Overleaf](https://www.overleaf.com/project)
-- [Mendeley](https://www.mendeley.com/search/)
+- [Overleaf](https://www.overleaf.com/project) for writing AI research papers with LaTeX.
+- [Mendeley](https://www.mendeley.com/search/) for reference BibTeX.
 
 
 # 2. Project Advice
